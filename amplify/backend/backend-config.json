@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"waterheaterb8d53ced": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

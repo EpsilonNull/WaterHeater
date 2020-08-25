@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-waterheater-dev-171711-authRole",
+            "UnauthRoleArn": "arn:aws:iam::981854352632:role/amplify-waterheater-dev-171711-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::981854352632:role/amplify-waterheater-dev-171711-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-waterheater-dev-171711-deployment",
+            "UnauthRoleName": "amplify-waterheater-dev-171711-unauthRole",
+            "StackName": "amplify-waterheater-dev-171711",
+            "StackId": "arn:aws:cloudformation:us-east-2:981854352632:stack/amplify-waterheater-dev-171711/9336eb40-dc91-11ea-be8d-0ad7a569cb8c",
+            "AmplifyAppId": "d15iggo1foi8bi"
+        },
+        "categories": {
+            "auth": {
+                "waterheaterb8d53ced": {}
+            }
+        }
+    }
+}
